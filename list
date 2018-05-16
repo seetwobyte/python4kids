@@ -1,0 +1,41 @@
+Strings 
+
+‘ hello world’  == “hello world” == “”” hello world 
+hello .capitalize() == Hello 
+“hello”.replce(“e”, “a”) == “hallo
+
+“hello”.isalpha() == True
+“123”.isdigit() True 
+
+“Some, csv, values”.split(“,”) == [ “some”, “csv”, “values” ]
+
+#####  Boolean and None   ####
+
+Python_course = True
+
+Java_course = False 
+
+###### if statement  #######
+
+
+Number = 5 
+ If number == 5:
+  print (“number is 5”)
+else :
+Print (“number is not 5”)
+
+
+
+######## list ##########
+
+students _name = [“mark”, “harv”]
+Students_name[0] == “mark”
+
+students_name.append(“sheldon”)  # add to the end
+
+len(students_list) == 4   # how many elements in the list 
+
+######### printing list elements ##############
+
+##############   For loop     ##############
+
