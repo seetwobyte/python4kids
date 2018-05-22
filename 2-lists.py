@@ -1,7 +1,12 @@
-# list use [] like a box #
+# list use [] like a Box
 
-import random
-import sys
-import os
+import _random
+import  sys
+import OS
 
+
+
+grocery_list = ["juice", "tomatoes", "potatoes", "bananas"]
+
+print("first Item", grocery_list[0])
 
