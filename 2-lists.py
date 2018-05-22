@@ -36,3 +36,8 @@ print(to_do_list)
 
 
 grocery_list.sort()
+grocery_list.reverse()
+del grocery_list[4]
+print(to_do_list)
+
+print(len(to_do_list))
