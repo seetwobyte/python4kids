@@ -16,11 +16,11 @@ else:
     else:
         print("you should not drive")
 
-# comnbine conditions with logical operators #
+# combine conditions with logical operators #
 # the logical operators are AND and OR #
 
 if ((age >= 1) and (age <= 18)):
     print(" you get a birthday")
 
 elif ((age == 21)  or (age >= 65)):
-    print("you dont ge a birthday")
+    print("you dont get a birthday")
